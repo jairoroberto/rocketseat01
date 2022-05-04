@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn01{
+    @apply bg-white border-2 border-violet-800 p-1 h-10 px-8 text-[#333] mx-4 rounded hover:bg-violet-800  hover:text-white transition-colors;
+}
