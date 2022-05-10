@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.btn01{
-    @apply bg-emerald-400 shadow-md border-green-600 p-7 flex items-center justify-center w-80 h-12 px-8 text-[#fff] mx-4 rounded hover:bg-violet-800 hover:text-white transition-colors;
+body{
+    @apply bg-[#09090a] text-zinc-100
 }
+
+
